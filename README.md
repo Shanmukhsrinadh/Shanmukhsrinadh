@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React js, Adobe XD, WebFlow**
 
-- 👨‍💻 All of my projects are available at [https://shanmukhsrinadh.github.io/Portfolio/](https://shanmukhsrinadh.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://shanmukhsrinadh.github.io/Shannuportfolio/)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,Wordpress,Figma**
 
